@@ -1,0 +1,11 @@
+{
+  "name": "herramientas-prog",
+  "version": "1.0.0",
+  "description": "ejercicio practica hola mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Mendez",
+  "license": "ISC"
+}
